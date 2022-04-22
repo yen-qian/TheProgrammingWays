@@ -34,7 +34,7 @@
   1. 找到问题的中心词. 比如“windows下字体文件安装在哪个位置”这个问题, 关键点在于“windows系统”, “字体文件”, “安装字体文件的路径”. 而“windows系统”和“windows”作用是相同的, 因此“系统两个字”是冗余的. 以此类推, 我们可以提炼出“windows 字体 路径”这三个关键词.
   2. 用准行业术语. 还是“windows下字体文件安装在哪个位置”这个问题, 计算机术语“路径”相对于“位置”要明显的准确的多, 其搜索结果也会更专业和准确. 而行业术语可以通过日常积累逐渐了解.
   3. 对于一些程序的报错信息, 比如“不是有效的win32应用程序”, 其报错信息本身就是一个关键词. 因此我们可以搜索程序名+错误信息. 比如“mysql 不是有效的win32应用程序”.
-  4. 对于一些编译器的报错, 其报错信息也本身就是一个关键词. 例如“PHP Fatal error: Call to undefined function mb_detect_encoding() in E:\Site\phpMyAdmin\libraries\php-gettext\gettext.inc on line 177”这个php报错, 我们直接搜索“Call to undefined function mb_detect_encoding”即可找到解决方法.
+  4. 对于一些编译器的报错, 其报错信息也本身就是一个关键词. 例如 `PHP Fatal error: Call to undefined function mb_detect_encoding() in E:\Site\phpMyAdmin\libraries\php-gettext\gettext.inc on line 177` 这个php报错, 我们直接搜索 “Call to undefined function mb_detect_encoding” 即可找到解决方法.
   5. 如果要对文章进行查重, 或者搜索某个句子段落在别的站点有没有出现过, 直接搜索这个句子即可. 典型的用法是搜题的时候, 比如“c++求n个数中的最大值和最小值”. 如果你在试卷上见到了这个题, 请直接原封不动直接搜索原句. 这样短时间内可以找到大量的网站转载, 且内容几乎完全相同, 其中总有一个是有标准答案的.
 
 
