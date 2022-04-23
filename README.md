@@ -86,7 +86,7 @@
 
 ## 维修篇: 我看你就是想干南桥
   1. [怎样弄坏一个电子产品](trick1/1_howElectronicDevicesBroken.md)
-  2. 望-闻-问-切
+  2. [望-闻-问-切](trick1/2_see-smell-ask-test.md)
   3. 遇事不决查查供电
   4. 烧机大法还是烧鸡大法
   5. 谁不服干谁, 暴力替换法
