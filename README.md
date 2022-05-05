@@ -88,7 +88,7 @@
   1. [怎样弄坏一个电子产品](trick1/1_howElectronicDevicesBroken.md)
   2. [望-闻-问-切](trick1/2_see-smell-ask-test.md)
   3. [遇事不决查查供电](trick1/3_checkThePower.md)
-  4. 烧机大法还是烧鸡大法
+  4. [烧机大法还是烧鸡大法](trick1/4_thermalAnalysisWay.md)
   5. 谁不服干谁, 暴力替换法
   6. 主城地图上的时空分析
   7. 一切都是魔法, 软件背大锅
